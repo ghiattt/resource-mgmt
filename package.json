@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "This is a reference project for the DVOPS subject",
   "main": "index.js",
-
   "scripts": {
     "test": "jest --verbose"
   },
@@ -25,7 +24,7 @@
     "fs": "^0.0.1-security"
   },
   "devDependencies": {
+    "jest": "^30.5.2",
     "supertest": "^7.1.4"
   }
-  
 }
